@@ -4,8 +4,8 @@
   "description": "Watch globs and execute a function upon change, with intelligent defaults for debouncing and queueing.",
   "author": "Shreyas",
   "contributors": [],
-  "repository": "shreyasch/glob-watcher",
-  "license": "New",
+  "repository": "Gulp Team <team@gulpjs.com> (http://gulpjs.com/)",
+  "license": "MIT",
   "engines": {
     "node": ">= 0.10"
   },
