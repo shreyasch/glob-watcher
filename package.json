@@ -2,10 +2,10 @@
   "name": "glob-watcher",
   "version": "5.0.5",
   "description": "Watch globs and execute a function upon change, with intelligent defaults for debouncing and queueing.",
-  "author": "Gulp Team <team@gulpjs.com> (http://gulpjs.com/)",
+  "author": "Shreyas",
   "contributors": [],
-  "repository": "gulpjs/glob-watcher",
-  "license": "MIT",
+  "repository": "shreyasch/glob-watcher",
+  "license": "New",
   "engines": {
     "node": ">= 0.10"
   },
@@ -23,7 +23,7 @@
   "dependencies": {
     "anymatch": "^2.0.0",
     "async-done": "^1.2.0",
-    "chokidar": "https://github.com/shreyasch/chokidar.git",
+    "chokidar": "^3.5.3",
     "is-negated-glob": "^1.0.0",
     "just-debounce": "^1.0.0",
     "normalize-path": "^3.0.0",
