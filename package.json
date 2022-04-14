@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "coveralls": "^2.11.2",
-    "eslint": "^2.13.1",
+    "eslint": "^8.13.0",
     "eslint-config-gulp": "^3.0.1",
     "expect": "^1.16.0",
     "istanbul": "^0.4.0",
